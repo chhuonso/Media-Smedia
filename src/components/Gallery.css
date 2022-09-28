@@ -1,0 +1,56 @@
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+}
+
+
+.image-grid {
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: repeat(2, minmax(250px, 1fr));
+    width: 90%;
+    margin: 0 auto;
+    padding: 25px;
+    margin-top: 50px;
+    border-radius: 15px;
+    
+}
+
+.galleryImg:hover {
+    transform: scale(1.2);
+    border-radius: 15px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+} 
+
+.uploaded:hover {
+    transform: scale(1.5);
+}
+
+.footer {
+    margin: 20px auto;
+    width: 100%;
+    text-align: center;
+
+}
+
+.uploadBtn {
+    font-size: 50px;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: red;
+    color: white;
+}
+
+.uploadBtn:hover {
+    transform: scale(1.2);
+    font-size: 50px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
