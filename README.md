@@ -7,8 +7,6 @@ This project was base off my curiosity of image upload. I realized that creating
 
 <img width="1440" alt="Screen Shot 2022-09-27 at 9 06 19 PM" src="https://user-images.githubusercontent.com/103080113/193670760-08cdf044-435f-48c1-8733-7ece8b87eaf6.png">
 
-
-
 <img width="1440" alt="Screen Shot 2022-09-27 at 9 06 37 PM" src="https://user-images.githubusercontent.com/103080113/193481290-29cebe57-adcc-4b48-b787-b22d3be3bb83.png">
 
 <img width="1440" alt="Screen Shot 2022-09-27 at 9 06 49 PM" src="https://user-images.githubusercontent.com/103080113/193670962-ec1372d2-3a50-44ad-b7f0-fe074b0e1af2.png">
